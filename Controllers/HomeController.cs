@@ -20,7 +20,7 @@ namespace WebApplication8.Controllers
 
         public IActionResult Privacy()
         {
-            var name = "ruad"
+            var name = "ruad";
             return View();
         }
 
